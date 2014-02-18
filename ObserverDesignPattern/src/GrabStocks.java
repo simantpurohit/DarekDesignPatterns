@@ -4,7 +4,7 @@ public class GrabStocks{
 		
 		// Create the Subject object
 		// It will handle updating all observers 
-		// as well as deleting and adding them
+		// as well as deleting and adding them here
 		
 		StockGrabber stockGrabber = new StockGrabber();
 		
