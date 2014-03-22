@@ -1,5 +1,5 @@
 public class BigUFOEnemyShip extends UFOEnemyShip {
-	
+	//Simant
 	public BigUFOEnemyShip(){
 		
 		setName("Big UFO Enemy Ship");
